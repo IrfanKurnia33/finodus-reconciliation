@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="470" viewBox="0 0 960 470" role="img" aria-label="Synthetic check 1042 payable to Harbor Supply for 4800 dollars">
+  <defs><pattern id="lines" width="8" height="8" patternUnits="userSpaceOnUse"><path d="M0 8L8 0" stroke="#dce5dc" stroke-width=".4"/></pattern></defs>
+  <rect width="960" height="470" fill="#fafbf5"/><rect x="12" y="12" width="936" height="446" rx="3" fill="url(#lines)" stroke="#cdd7c7"/>
+  <g fill="#3a493e" font-family="Georgia,serif"><text x="48" y="62" font-size="25" font-weight="bold">NORTHSTAR DISTRIBUTION</text><text x="48" y="89" font-size="14">Fictional business · Demonstration record</text><text x="850" y="62" font-size="27">1042</text><text x="675" y="122" font-size="16">Date: September 25, 2026</text>
+  <text x="48" y="166" font-size="11" font-family="Arial,sans-serif">PAY TO THE</text><text x="48" y="181" font-size="11" font-family="Arial,sans-serif">ORDER OF</text><text x="157" y="180" font-size="28">Harbor Supply</text><path d="M150 195H700" stroke="#899985"/>
+  <rect x="738" y="149" width="170" height="49" fill="#f1f5e7" stroke="#b4c5af"/><text x="753" y="182" font-size="26">$ 4,800.00</text>
+  <text x="48" y="244" font-size="22">Four thousand eight hundred and 00/100</text><path d="M48 258H845" stroke="#899985"/><text x="850" y="250" font-size="12">DOLLARS</text>
+  <text x="48" y="307" font-size="19" font-weight="bold">RIVERBANK</text><text x="48" y="328" font-size="12">Fictional bank · No real banking details</text><text x="48" y="376" font-size="14">Memo: INV-392 / PO-118</text><path d="M48 390H390M565 390H910" stroke="#899985"/><text x="635" y="377" font-size="25" font-style="italic">A. Morris — Sample</text>
+  <text x="48" y="434" font-size="16" font-family="monospace" letter-spacing="2">DEMO ACCOUNT · NO ROUTING NUMBER · 1042</text></g>
+  <g transform="translate(478,267) rotate(-14)"><rect x="-260" y="-30" width="520" height="62" rx="3" fill="#fafbf5" fill-opacity=".82" stroke="#b4beb0"/><text text-anchor="middle" y="10" font-family="Arial,sans-serif" font-size="25" font-weight="bold" letter-spacing="4" fill="#8b9983">SAMPLE · NOT NEGOTIABLE</text></g>
+</svg>

@@ -1,0 +1,15 @@
+node_modules/
+dist/
+test-results/
+playwright-report/
+.vite/
+.env
+.env.*.local
+*.log
+.DS_Store
+
+# Keep working documentation local; publish the original brand preparation assets.
+/docs/*
+!/docs/high-fidelity-prep/
+!/docs/high-fidelity-prep/**
+/THIRD_PARTY_NOTICES.md
